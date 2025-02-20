@@ -31,22 +31,21 @@ The dataset consists of the following columns:
 ## Project Structure
 
 The project is organized into the following structure:
-
 SystemThreatForecaster/
 │
-├── Visualizations/                          # Folder for any data visualizations (if any)
+├── Visualizations/ # Folder for any data visualizations (if any)
 │
-├── LICENSE                                  # License file
+├── LICENSE # License file
 │
-├── Machine Learning Practice Consolidated Notes.pdf   # Practice notes PDF
+├── Machine Learning Practice Consolidated Notes.pdf # Practice notes PDF
 │
-├── Notebook-CodeWork.ipynb                  # Jupyter Notebook for model development and experimentation
+├── Notebook-CodeWork.ipynb # Jupyter Notebook for model development and experimentation
 │
-├── README.md                                # Project documentation
+├── README.md # Project documentation
 │
-├── System-Threat-Forecaster.zip             # Zip file containing project-related files
+├── System-Threat-Forecaster.zip # Zip file containing project-related files
 │
-├── sample_submission.csv                   # Sample submission file for competition
+└── sample_submission.csv # Sample submission file for competition
 
 ## Models Implemented
 
