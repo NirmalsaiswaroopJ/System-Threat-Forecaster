@@ -38,7 +38,8 @@ The project is organized into the following structure:
 - **README.md**: The documentation file providing an overview of the project and setup instructions.
 - **System-Threat-Forecaster.zip**: A compressed file that includes project files for easy sharing.
 - **sample_submission.csv**: The sample CSV file used for competition submission with the required format.
-
+- **requirements.txt**: Consists of all the dependencies that need to be pre-installed.
+- 
 ## Models Implemented
 
 The following machine learning models have been implemented to predict the target variable:
