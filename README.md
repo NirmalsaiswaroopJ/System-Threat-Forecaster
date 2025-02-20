@@ -71,3 +71,54 @@ Make sure you have the following libraries installed:
 ```bash
 pip install -r requirements.txt
 ```
+### Procedure
+
+```bash
+# Run the notebook to reproduce results
+jupyter notebook Notebook-CodeWork.ipynb
+```
+### Submission
+
+Submit the results
+After generating the predictions, submit the final output file (submission.csv) to the competition or project platform.
+
+## Results and Findings
+
+Our LightGBM model identified the following critical factors in malware prediction:
+
+- **Signature update recency** (27% importance)
+- **Real-time protection state** (21% importance)
+- **OS version** (18% importance)
+- **RAM capacity** (9% importance)
+
+These findings suggest that security posture management and regular updates are the most effective preventative measures against malware infection.
+
+## 🔮 Future Work
+
+I've identified several promising directions for future research:
+
+- Incorporation of temporal features to capture infection patterns over time
+- Ensemble approach combining multiple model strengths
+- Deep learning approaches for feature extraction from raw telemetry data
+- Explainability enhancements for security operations teams
+
+## 👥 Contributors
+
+- **Nirmal Sai Swaroop J** - Learning Data Science Student
+- **IIT Madras Data Science Program** - Academic Support
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🙏 Acknowledgments
+
+- IIT Madras for the excellent Data Science curriculum
+- Open-source ML libraries that made this analysis possible
+
+## 🌐 Connect with Me
+
+- LinkedIn: [Profile](https://www.linkedin.com/in/nirmal-sai-swaroop-janapaneedi-4aa5632a7/)
+
+## 💬 Thank You!
+
